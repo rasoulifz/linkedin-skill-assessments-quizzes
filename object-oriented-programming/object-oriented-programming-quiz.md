@@ -11,8 +11,8 @@
 
 - [ ] the number of people in each house in a small neighborhood
 - [ ] the lot size for each house in a small neighborhood
-- [ ] the color of each house in a small neighborhood
-- [x] the weather conditions for each house in a small neighborhood
+- [x] the color of each house in a small neighborhood
+- [ ] the weather conditions for each house in a small neighborhood
 
 #### Q3. 1 Why would you create an abstract class, if it can have no real instances?
 
@@ -123,14 +123,14 @@
 
 - [ ] multilevel
 - [ ] hierarchical and multiple
-- [x] hierarchical
-- [ ] multiple
+- [ ] hierarchical
+- [x] multiple
 
 #### Q19. Which statement is true?
 
-- [x] A default parameter's constructor is not equivalent to the default constructor
+- [ ] A default parameter's constructor is not equivalent to the default constructor
 - [ ] A default constructor is inherited from a parent class
-- [ ] A default constructor can be called explicitly
+- [x] A default constructor can be called explicitly
 - [ ] A default constructor cannot be defined by the coder
 
 #### Q20. Which of the following is NOT an advantage of using getters and setters?
@@ -194,10 +194,10 @@
 
 #### Q27. In multilevel inheritance, one class inherits how many classes?
 
-- [x] one class only
+- [ ] one class only
 - [ ] two classes
 - [ ] as many classes as required
-- [ ] at least two classes
+- [x] at least two classes
 
 #### Q28. if an object is passed by reference, the changes made in the function are reflected \_.
 
@@ -387,8 +387,8 @@
 
 #### Q53. What is the function of a user diagram?
 
-- [ ] It connects actors to use cases.
-- [x] It links actors to roles played in all use cases.
+- [x] It connects actors to use cases.
+- [ ] It links actors to roles played in all use cases.
 - [ ] It lists all actors for each use case.
 - [ ] It minimizes the number of actors required.
 
@@ -489,10 +489,10 @@
 
 #### Q68. What does the value (0.5,0.5,0.5) indicate in the class diagram specification position: Coordinate = (0.5,0.5,0.5)?
 
-- [ ] a default value of the Coordinate attribute
+- [x] a default value of the Coordinate attribute
 - [ ] the size of the position array
 - [ ] an increment of the position attribute value
-- [x] a default value of the position attribute
+- [ ] a default value of the position attribute
 
 #### Q69. What is the most accurate example of the Liskov substitution principle?
 
@@ -508,7 +508,7 @@ public class Tesla FlyingCar{}
 public class Honda Car{}
 ```
 
-- [ ] B
+- [x] B
 
 ```java
 public class Car{
@@ -528,7 +528,7 @@ public class Tesla Car{}
 public class Honda Car{}
 ```
 
-- [x] D
+- [ ] D
 
 ```java
 public class Car{
@@ -567,8 +567,8 @@ public class Honda extends Car{}
 
 #### Q73. Assume single inheritance is used with classes A and B while A is the base class. Then assume classes C, D, and E, where C is a base class and D is derived from C, then E is derived from D. Class C is made to inherit from class B. Which type of inheritance is reflected?
 
-- [x] Multilevel
-- [ ] Hybrid
+- [ ] Multilevel
+- [x] Hybrid
 - [ ] Single level
 - [ ] Multiple
 
@@ -688,9 +688,9 @@ public class Honda extends Car{}
 
 #### Q90. Which relationship best illustrates an abstract-concrete class relationship?
 
-- [ ] cat : kitten
+- [x] cat : kitten
 - [ ] color : red
-- [x] planet : moon
+- [ ] planet : moon
 - [ ] truck : window
 
 #### Q91. What cannot be used for polymorphism?
