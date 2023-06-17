@@ -810,3 +810,15 @@ public class Honda extends Car{}
 - [ ] the exact same thing as a function and subroutine
 - [ ] a set of variables that can change over time
 - [ ] a set of instructions designed to perform a frequently used operation within a program and return no values
+
+#### Q107. you have a class name MyClass that :
+   A.has a static read-only member variable value of type MyClass as well ,
+   B.has a private static read-only constructor that initialzed the member varible discribed above,
+   C.has a static getter for static membervariable describe in A , 
+   D.may have other instance variable and procedure ,
+   How is this pattern called?
+
+- [ ] Factory
+- [x] Singltone
+- [ ] Memento
+- [ ] Vistor
